@@ -1,0 +1,20 @@
+{
+    "name": {
+        "firstname": "Amritha",
+        "lastname": "Ragavi"
+    },
+    "dob": {
+        "day": 16,
+        "month": 11,
+        "year": 13
+    },
+    "address": {
+        "address1": "Restricted",
+        "city": "city",
+        "state": 4,
+        "pincode": 11111,
+        "country": "United States"
+    },
+    "mobileNumber": 7854632189,
+    "aliasAddress": "not found"
+}
